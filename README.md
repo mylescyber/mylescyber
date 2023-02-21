@@ -1,4 +1,4 @@
-<h1>Hi, I'm Myles Holt, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi, I'm Myles Holt, an <a href=www.linkedin.com/in/myles-holt-73521620a>IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
